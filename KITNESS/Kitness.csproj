@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{98F9AE4A-87B2-44BC-A6C1-84393C51F85C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kitness</RootNamespace>
+    <AssemblyName>Kitness</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Kinect, Version=1.8.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualStudio.VSContentInstaller, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WpfAnimatedGif, Version=1.4.18.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\WpfAnimatedGif.1.4.18\lib\net\WpfAnimatedGif.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Default_start.xaml.cs">
+      <DependentUpon>Default_start.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Default_ready.xaml.cs">
+      <DependentUpon>Default_ready.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Exit.xaml.cs">
+      <DependentUpon>Exit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Information.xaml.cs">
+      <DependentUpon>Information.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Kinect_View.xaml.cs">
+      <DependentUpon>Kinect_View.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Kinect_Point.cs" />
+    <Compile Include="Leg\leg1.cs" />
+    <Compile Include="Leg\leg2.cs" />
+    <Compile Include="Leg\leg3.cs" />
+    <Compile Include="Neck\neck1.cs" />
+    <Compile Include="Neck\neck2.cs" />
+    <Compile Include="Neck\neck3.cs" />
+    <Compile Include="Spine\spine1.cs" />
+    <Compile Include="Spine\spine2.cs" />
+    <Compile Include="Spine\spine3.cs" />
+    <Compile Include="Tutorial.xaml.cs">
+      <DependentUpon>Tutorial.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Default_start.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Default_ready.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Exit.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Information.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Kinect_View.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Tutorial.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="PartSelection.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PartSelection.xaml.cs">
+      <DependentUpon>PartSelection.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <SplashScreen Include="image\etc\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\backbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\background2.jpg" />
+    <Resource Include="image\etc\background3.jpg" />
+    <Resource Include="image\etc\closebtn.jpg" />
+    <Resource Include="image\etc\coming2.png" />
+    <Resource Include="image\etc\connectbtn.jpg" />
+    <Resource Include="image\exercise\leg1.gif" />
+    <Resource Include="image\exercise\leg2.gif" />
+    <Resource Include="image\exercise\leg3.gif" />
+    <Resource Include="image\exercise\leg1_btn.png" />
+    <Resource Include="image\exercise\leg2_btn.png" />
+    <Resource Include="image\exercise\leg3_btn.png" />
+    <Resource Include="image\exercise\neck1.gif" />
+    <Resource Include="image\exercise\neck2.gif" />
+    <Resource Include="image\exercise\neck3.gif" />
+    <Resource Include="image\exercise\neck1_btn.png" />
+    <Resource Include="image\exercise\neck2_btn.png" />
+    <Resource Include="image\exercise\neck3_btn.png" />
+    <Resource Include="image\etc\startbtn.jpg" />
+    <Resource Include="image\etc\tuto3.png" />
+    <Resource Include="image\etc\tutorialbtn.jpg" />
+    <Resource Include="image\exercise\spine1.gif" />
+    <Resource Include="image\exercise\spine2.gif" />
+    <Resource Include="image\exercise\spine3.gif" />
+    <Resource Include="image\exercise\spine1_btn.png" />
+    <Resource Include="image\exercise\spine2_btn.png" />
+    <Resource Include="image\exercise\spine3_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\exitbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\backbtn2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\startbtn1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\startback2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\startbtn2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\logo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\background2-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\exit2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\backbtn3.jpg" />
+    <Resource Include="image\etc\closebtn3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\connectbtn2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\exercise\leg1_ex.png" />
+    <Resource Include="image\exercise\leg2_ex.png" />
+    <Resource Include="image\exercise\leg3_ex.png" />
+    <Resource Include="image\exercise\neck1_ex.png" />
+    <Resource Include="image\exercise\neck2_ex.png" />
+    <Resource Include="image\exercise\neck3_ex.png" />
+    <Resource Include="image\exercise\spine1_ex.png" />
+    <Resource Include="image\exercise\spine2_ex.png" />
+    <Resource Include="image\exercise\spine3_ex.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\exercise\neck1_m.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\exercise\leg1_m.gif" />
+    <Resource Include="image\exercise\leg2_m.gif" />
+    <Resource Include="image\exercise\leg3_m.gif" />
+    <Resource Include="image\exercise\neck2_m.gif" />
+    <Resource Include="image\exercise\neck3_m.gif" />
+    <Resource Include="image\exercise\spine1_m.gif" />
+    <Resource Include="image\exercise\spine2_m.gif" />
+    <Resource Include="image\exercise\spine3_m.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\guide\kinect_movebtn.jpg" />
+    <Resource Include="image\guide\kinect_stopbtn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\guide\kinect_okbtn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\guide\kinect_dis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\informationbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\cnt_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\guide\tuto_restart.png" />
+    <Resource Include="image\guide\tuto_start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\guide\guide2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\exercise_etc\set.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\restart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\guide\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\exercise_etc\exercise_finish.png" />
+    <Resource Include="image\exercise_etc\exercise_recognize.png" />
+    <Resource Include="image\exercise_etc\exercise_recognizing.png" />
+    <Resource Include="image\exercise_etc\exercise_start.png" />
+    <Resource Include="image\guide\guide_next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\exercise_etc\exercise_cheer.png" />
+    <Resource Include="image\exercise_etc\exercise_good.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\guide\guide_restart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\exercise_etc\exercise_no.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\etc\goodbye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\guide\guide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\guide\guide_cheer.png" />
+    <Resource Include="image\guide\guide_good.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\exercise\leg1_left.png" />
+    <Resource Include="image\exercise\leg1_right.png" />
+    <Resource Include="image\exercise\leg2_left.png" />
+    <Resource Include="image\exercise\leg2_right.png" />
+    <Resource Include="image\exercise\leg3_left.png" />
+    <Resource Include="image\exercise\leg3_right.png" />
+    <Resource Include="image\exercise\neck1_left.png" />
+    <Resource Include="image\exercise\neck1_right.png" />
+    <Resource Include="image\exercise\neck2_left.png" />
+    <Resource Include="image\exercise\neck2_right.png" />
+    <Resource Include="image\exercise\neck3_left.png" />
+    <Resource Include="image\exercise\neck3_right.png" />
+    <Resource Include="image\exercise\spine1_left.png" />
+    <Resource Include="image\exercise\spine1_right.png" />
+    <Resource Include="image\exercise\spine2_left.png" />
+    <Resource Include="image\exercise\spine2_right.png" />
+    <Resource Include="image\exercise\spine3_left.png" />
+    <Resource Include="image\exercise\spine3_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\exercise\ready.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\tutorial\tutorial1.gif" />
+    <Resource Include="image\tutorial\tutorial2.gif" />
+    <Resource Include="image\tutorial\tutorial3.gif" />
+    <Resource Include="image\tutorial\tutorial4.gif" />
+    <Resource Include="image\tutorial\tutorial5.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\tutorial\backbtn.png" />
+    <Resource Include="image\tutorial\frontbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Libs\Microsoft.Kinect.dll" />
+    <EmbeddedResource Include="Libs\Microsoft.VisualStudio.VSContentInstaller.dll" />
+    <EmbeddedResource Include="Libs\WpfAnimatedGif.dll" />
+    <Resource Include="logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,249 @@
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\bin\Debug\Kitness.exe.config
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\bin\Debug\Kitness.exe
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\bin\Debug\Kitness.pdb
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Kitness.csprojAssemblyReference.cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\MainWindow.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\App.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Kitness_MarkupCompile.cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Kitness_MarkupCompile.lref
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\MainWindow.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Kitness.g.resources
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Kitness.Properties.Resources.resources
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Kitness.csproj.GenerateResource.cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Kitness.csproj.CoreCompileInputs.cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Kitness.exe
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Kitness.pdb
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\PartSelection.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\PartSelection.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\bin\Debug\WpfAnimatedGif.dll
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\bin\Debug\WpfAnimatedGif.xml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Kitness.csproj.CopyComplete
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\bin\Debug\Microsoft.Kinect.dll
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\bin\Debug\Microsoft.Kinect.xml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Leg\Leg4_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Leg\Leg3_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Leg\Leg2_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Leg\Leg1_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Neck\Neck4_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Neck\Neck3_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Neck\Neck2_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Neck\Neck1_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Spine\Spine4_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Spine\Spine3_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Spine\Spine2_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Spine\Spine1_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Leg\Leg1_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Neck\Neck1_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Leg\Leg4_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Leg\Leg3_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Leg\Leg2_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Neck\Neck4_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Neck\Neck3_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Neck\Neck2_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Spine\Spine4_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Spine\Spine3_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Spine\Spine2_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Spine\Spine1_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Leg\Leg1.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Leg\Leg1.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Tutorial.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Tutorial.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Neck\Neck2.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Spine\Spine3.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Neck\Neck2.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Spine\Spine3.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Exit.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\Kitness_v.2\Kitness\obj\Debug\Exit.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kitness.csprojAssemblyReference.cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Exit.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Tutorial.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\MainWindow.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\PartSelection.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\App.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kitness_MarkupCompile.cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kitness_MarkupCompile.lref
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kitness.exe
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kitness.pdb
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\bin\Debug\Kitness.exe.config
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\bin\Debug\Kitness.exe
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\bin\Debug\Kitness.pdb
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\bin\Debug\Microsoft.Kinect.dll
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\bin\Debug\WpfAnimatedGif.dll
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\bin\Debug\Microsoft.Kinect.xml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\bin\Debug\WpfAnimatedGif.xml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Exit.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Tutorial.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\MainWindow.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\PartSelection.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kitness.g.resources
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kitness.Properties.Resources.resources
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kitness.csproj.GenerateResource.cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kitness.csproj.CoreCompileInputs.cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kitness.csproj.CopyComplete
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\bin\Debug\Microsoft.VisualStudio.VSContentInstaller.dll
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kinect_View.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Kinect_View.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Default_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Default_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Default_start.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\Kitness\obj\Debug\Default_start.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\bin\Debug\Kitness.exe.config
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\bin\Debug\Kitness.exe
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\bin\Debug\Kitness.pdb
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\bin\Debug\Microsoft.Kinect.dll
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\bin\Debug\WpfAnimatedGif.dll
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\bin\Debug\Microsoft.Kinect.xml
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\bin\Debug\WpfAnimatedGif.xml
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kitness.csprojAssemblyReference.cache
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kinect_View.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Default_start.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Default_ready.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Exit.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kinect_View.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Tutorial.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\MainWindow.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\PartSelection.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\App.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kitness_MarkupCompile.cache
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kitness_MarkupCompile.lref
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Default_start.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Default_ready.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Exit.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Tutorial.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\MainWindow.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\PartSelection.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kitness.g.resources
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kitness.Properties.Resources.resources
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kitness.csproj.GenerateResource.cache
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kitness.csproj.CoreCompileInputs.cache
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kitness.csproj.CopyComplete
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kitness.exe
+C:\Users\tleld\Desktop\컴터빌린 지연스\깨끗한거\obj\Debug\Kitness.pdb
+C:\Users\정지원\Desktop\UI\kitness4\bin\Debug\Kitness.exe.config
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Kitness.exe
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Kitness.pdb
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Kitness.csprojResolveAssemblyReference.cache
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Kinect_View.baml
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Default_start.g.cs
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Default_ready.g.cs
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Exit.g.cs
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Kinect_View.g.cs
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Tutorial.g.cs
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\MainWindow.g.cs
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\PartSelection.g.cs
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\App.g.cs
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Kitness_MarkupCompile.cache
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Kitness_MarkupCompile.lref
+C:\Users\정지원\Desktop\UI\kitness4\bin\Debug\Kitness.exe
+C:\Users\정지원\Desktop\UI\kitness4\bin\Debug\Kitness.pdb
+C:\Users\정지원\Desktop\UI\kitness4\bin\Debug\Microsoft.Kinect.dll
+C:\Users\정지원\Desktop\UI\kitness4\bin\Debug\Microsoft.VisualStudio.VSContentInstaller.dll
+C:\Users\정지원\Desktop\UI\kitness4\bin\Debug\WpfAnimatedGif.dll
+C:\Users\정지원\Desktop\UI\kitness4\bin\Debug\Microsoft.Kinect.xml
+C:\Users\정지원\Desktop\UI\kitness4\bin\Debug\WpfAnimatedGif.xml
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Default_start.baml
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Default_ready.baml
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Exit.baml
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Tutorial.baml
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\MainWindow.baml
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\PartSelection.baml
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Kitness.g.resources
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Kitness.Properties.Resources.resources
+C:\Users\정지원\Desktop\UI\kitness4\obj\Debug\Kitness.csproj.GenerateResource.Cache
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\bin\Debug\Kitness.exe.config
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\bin\Debug\Kitness.exe
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\bin\Debug\Kitness.pdb
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\bin\Debug\Microsoft.Kinect.dll
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\bin\Debug\WpfAnimatedGif.dll
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\bin\Debug\Microsoft.Kinect.xml
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\bin\Debug\WpfAnimatedGif.xml
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kitness.csprojAssemblyReference.cache
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kinect_View.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Default_start.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Default_ready.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Exit.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kinect_View.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Tutorial.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\MainWindow.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\PartSelection.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\App.g.cs
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kitness_MarkupCompile.cache
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kitness_MarkupCompile.lref
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Default_start.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Default_ready.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Exit.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Tutorial.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\MainWindow.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\PartSelection.baml
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kitness.g.resources
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kitness.Properties.Resources.resources
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kitness.csproj.GenerateResource.cache
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kitness.csproj.CoreCompileInputs.cache
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kitness.csproj.CopyComplete
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kitness.exe
+C:\Users\tleld\Desktop\컴터빌린 지연스\kitness5\obj\Debug\Kitness.pdb
+C:\Users\정지원\Desktop\UI\kitness6\bin\Debug\Kitness.exe.config
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Kitness.exe
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Kitness.pdb
+C:\Users\정지원\Desktop\UI\kitness6\bin\Debug\Kitness.exe
+C:\Users\정지원\Desktop\UI\kitness6\bin\Debug\Kitness.pdb
+C:\Users\정지원\Desktop\UI\kitness6\bin\Debug\Microsoft.Kinect.dll
+C:\Users\정지원\Desktop\UI\kitness6\bin\Debug\Microsoft.VisualStudio.VSContentInstaller.dll
+C:\Users\정지원\Desktop\UI\kitness6\bin\Debug\WpfAnimatedGif.dll
+C:\Users\정지원\Desktop\UI\kitness6\bin\Debug\Microsoft.Kinect.xml
+C:\Users\정지원\Desktop\UI\kitness6\bin\Debug\WpfAnimatedGif.xml
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Kitness.csprojResolveAssemblyReference.cache
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Kinect_View.baml
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Default_start.g.cs
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Default_ready.g.cs
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Exit.g.cs
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Kinect_View.g.cs
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Tutorial.g.cs
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\MainWindow.g.cs
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\PartSelection.g.cs
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\App.g.cs
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Kitness_MarkupCompile.cache
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Kitness_MarkupCompile.lref
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Default_start.baml
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Default_ready.baml
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Exit.baml
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Tutorial.baml
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\MainWindow.baml
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\PartSelection.baml
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Kitness.g.resources
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Kitness.Properties.Resources.resources
+C:\Users\정지원\Desktop\UI\kitness6\obj\Debug\Kitness.csproj.GenerateResource.Cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\bin\Debug\Kitness.exe.config
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\bin\Debug\Kitness.exe
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\bin\Debug\Kitness.pdb
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\bin\Debug\Microsoft.Kinect.dll
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\bin\Debug\Microsoft.VisualStudio.VSContentInstaller.dll
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\bin\Debug\WpfAnimatedGif.dll
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\bin\Debug\Microsoft.Kinect.xml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\bin\Debug\WpfAnimatedGif.xml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Kinect_View.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Default_start.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Default_ready.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Exit.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Information.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Kinect_View.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Tutorial.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\MainWindow.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\PartSelection.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\App.g.cs
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Kitness_MarkupCompile.cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Kitness_MarkupCompile.lref
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Default_start.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Default_ready.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Exit.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Information.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Tutorial.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\MainWindow.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\PartSelection.baml
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Kitness.g.resources
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Kitness.Properties.Resources.resources
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Kitness.csproj.GenerateResource.cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Kitness.csproj.CoreCompileInputs.cache
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Kitness.csproj.CopyComplete
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Kitness.exe
+C:\Users\dbwjd\OneDrive\바탕 화면\KITNESS(C#[WPF],MS-SQL,kinect)\kitness_new\kitness7\kitness6\obj\Debug\Kitness.pdb

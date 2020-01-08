@@ -1,0 +1,105 @@
+﻿<Window x:Class="Kitness.Default_ready"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kitness"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        mc:Ignorable="d"
+        WindowStyle="None" ResizeMode="NoResize" WindowState="Maximized"
+        Title="KITNESS" Height="950" Width="1500">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="image/etc/background3.jpg" AlignmentY="Top" AlignmentX="Center"></ImageBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.25*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="2.45*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.12*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="0.12*"/>
+            <ColumnDefinition Width="1.5*"/>
+            <ColumnDefinition Width="0.17*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="1" Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="7*"/>
+            </Grid.ColumnDefinitions>
+            <Button  Grid.Column="0" Click="BtBack" BorderBrush="{x:Null}" Margin="0, 35, 0, 10">
+                <Button.Background>
+                    <ImageBrush/>
+                </Button.Background>
+                <Image Source="image/etc/backbtn.png" Stretch="Fill"/>
+            </Button>
+        </Grid>
+
+
+        <Grid  Grid.Row="0" Grid.Column="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Button  Grid.Column="0" Click="Btinfo" BorderBrush="{x:Null}" Margin="0, 35, 0, 10">
+                    <Button.Background>
+                        <ImageBrush/>
+                    </Button.Background>
+                    <Image Source="image/etc/informationbtn.png" Stretch="Fill"/>
+                </Button>
+                <Button Grid.Column="1" Click="BtTutorial_Click" BorderBrush="{x:Null}" Margin="0, 35, 0, 10">
+                    <Button.Background>
+                        <ImageBrush/>
+                    </Button.Background>
+                    <Image Source="image/etc/tuto3.png" Stretch="Fill"/>
+                </Button>
+                <Button  Grid.Column="2" Click="BtExit" BorderBrush="{x:Null}" Margin="0, 35, 0, 10">
+                    <Button.Background>
+                        <ImageBrush/>
+                    </Button.Background>
+                    <Image Source="image/etc/exitbtn.png" Stretch="Fill"/>
+                </Button>
+            </Grid>
+        </Grid>
+
+        <Frame x:Name="kinect_test" Source="Kinect_View.xaml" Grid.Row="1" Grid.Column="3" Panel.ZIndex="2"/>
+        <Image x:Name="kinect_connect" Source="image/guide/guide2.png" Grid.Row="1" Grid.Column="3" Panel.ZIndex="1"/>
+        <Image x:Name="kinect_img" Source="image/guide/kinect_dis.png" Grid.Row="1" Grid.Column="3" Margin="0,40,0, 0" Visibility="Hidden"
+               VerticalAlignment="Top" Width="{Binding Path=ActualWidth, ElementName=kinect_test}" Panel.ZIndex="3"/>
+
+        <Image x:Name="next_img" Source="image/guide/guide_next.png" Grid.Row="1" Grid.Column="3" Opacity="0.5" Margin="0,30" Visibility="Hidden"
+               VerticalAlignment="Bottom" Width="{Binding Path=ActualWidth, ElementName=kinect_test}" Panel.ZIndex="4"/>
+
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.5*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Image x:Name="part_img" Grid.Row="0" gif:ImageBehavior.RepeatBehavior="Forever" gif:ImageBehavior.AnimatedSource="image/exercise/leg2_m.gif" />
+            <Image x:Name="ex_img" Grid.Row="1" Source="image/exercise/leg2_ex.png" Panel.ZIndex="2" Margin="0,-55,0,0"/>
+        </Grid>
+
+        <Button x:Name="btStart"  Click="start" Grid.Row="2" Grid.Column="1" Margin="30,50,30,70" BorderBrush="{x:Null}" Opacity="0.5">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+            <Image Source="image/etc/startbtn2.jpg" Stretch="Fill"/>
+        </Button>
+
+        <Button x:Name="bt_connect" x:Uid="reconnect" Click="kinect_refresh" Grid.Row="2" Grid.Column="3" Panel.ZIndex="2"  BorderBrush="{x:Null}" Margin="30,50,30,70">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+            <Image x:Name="bt_connect_img" Source="image/etc/connectbtn.jpg" Stretch="Fill" />
+        </Button>
+    </Grid>
+</Window>
